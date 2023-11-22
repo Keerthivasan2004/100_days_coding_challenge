@@ -48,7 +48,6 @@ class Solution{
     }
     bool isSymmetric(struct Node* root)
     {
-	    // Code here
 	    return isMirror(root,root);
     }
 };
