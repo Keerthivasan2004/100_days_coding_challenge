@@ -24,3 +24,11 @@ Day-04(23.11.2023)
 LeetCode-Container With Most Water
 
 GFG_POTD-AVL Tree Insertion
+
+
+Day-05(24.11.2023)
+
+LeetCode-Remove Duplicates from Sorted Array
+
+GFG_POTD-Pascal Triangle
+
