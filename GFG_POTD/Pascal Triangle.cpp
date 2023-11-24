@@ -1,4 +1,4 @@
-Given a positive integer N, return the Nth row of pascal's triangle.
+/*Given a positive integer N, return the Nth row of pascal's triangle.
 Pascal's triangle is a triangular array of the binomial coefficients formed by summing up the elements of previous row.
 The elements can be large so return it modulo 10^9 + 7.
 
@@ -26,7 +26,7 @@ Expected Time Complexity: O(N2)
 Expected Auxiliary Space: O(N2)
 
 Constraints:
-1 ≤ N ≤ 10^3
+1 ≤ N ≤ 10^3*/
 
 Solution:
 
