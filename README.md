@@ -32,3 +32,10 @@ LeetCode-Remove Duplicates from Sorted Array
 
 GFG_POTD-Pascal Triangle
 
+
+Day-06(25.11.2023)
+
+LeetCode- Search Insert Position
+
+GFG_POTD- Shuffle Integers
+
