@@ -39,3 +39,10 @@ LeetCode- Search Insert Position
 
 GFG_POTD- Shuffle Integers
 
+
+Day-07(26.11.2023)
+
+LeetCode- Reverse Integer
+
+GFG_POTD- Print pattern
+
