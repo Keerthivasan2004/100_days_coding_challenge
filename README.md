@@ -46,3 +46,10 @@ LeetCode- Reverse Integer
 
 GFG_POTD- Print pattern
 
+
+Day-08(27.11.2023)
+
+LeetCode- Triplet Sum With Arrays
+
+GFG_POTD- Detect Cycle using DSU
+
