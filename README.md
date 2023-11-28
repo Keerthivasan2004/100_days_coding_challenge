@@ -54,7 +54,7 @@ LeetCode- Triplet Sum With Arrays
 GFG_POTD- Detect Cycle using DSU
 
 
-Day-08(28.11.2023)
+Day-09(28.11.2023)
 
 LeetCode- Three Sum Closest to the Target using Array
 
