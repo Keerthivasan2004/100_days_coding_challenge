@@ -67,3 +67,10 @@ LeetCode- Four Sum Using Array
 
 GFG_POTD- Euler circuit and Path
 
+
+Day-11(30.11.2023)
+
+LeetCode- Next Permutation
+
+GFG_POTD- Shortest path from 1 to n
+
