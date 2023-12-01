@@ -74,3 +74,10 @@ LeetCode- Next Permutation
 
 GFG_POTD- Shortest path from 1 to n
 
+
+Day-12(01.12.2023)
+
+LeetCode- Search in Rotated Sorted Array
+
+GFG_POTD- Check whether BST contains Dead End
+
