@@ -81,3 +81,9 @@ LeetCode- Search in Rotated Sorted Array
 
 GFG_POTD- Check whether BST contains Dead End
 
+
+Day-13(02.12.2023)
+
+LeetCode- Finding First and Last Element in an Sorted Array
+
+GFG_POTD- Inorder Traversal and BST
