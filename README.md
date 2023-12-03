@@ -87,3 +87,10 @@ Day-13(02.12.2023)
 LeetCode- Finding First and Last Element in an Sorted Array
 
 GFG_POTD- Inorder Traversal and BST
+
+
+Day-14(03.12.2023)
+
+LeetCode- Valid Sudoku
+
+GFG_POTD- Brothers From Different Roots
