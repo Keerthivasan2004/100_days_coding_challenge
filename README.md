@@ -101,3 +101,10 @@ Day-15(04.12.2023)
 LeetCode- Sudoku Solver
 
 GFG_POTD- Sum Strings
+
+
+Day-16(05.12.2023)
+
+LeetCode- Product of Array Except Self
+
+GFG_POTD- Minimize the Heights II
