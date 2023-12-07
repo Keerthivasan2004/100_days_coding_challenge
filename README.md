@@ -114,3 +114,10 @@ Day-17(06.12.2023)
 LeetCode- Length of last word
 
 GFG_POTD- How Many X's?
+
+
+Day-18(07.12.2023)
+
+LeetCode- Combination Sum
+
+GFG_POTD- Number of subarrays with maximum values in given range
