@@ -121,3 +121,11 @@ Day-18(07.12.2023)
 LeetCode- Combination Sum
 
 GFG_POTD- Number of subarrays with maximum values in given range
+
+
+Day-19(08.12.2023)
+
+LeetCode- Combination Sum-II
+
+GFG_POTD- Transform to Prime
+
