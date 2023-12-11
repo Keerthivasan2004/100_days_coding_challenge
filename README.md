@@ -142,3 +142,11 @@ Day-21(10.12.2023)
 LeetCode- First Missing Positive
 
 GFG_POTD- Subarray with 0 sum
+
+
+Day-22(11.12.2023)
+
+LeetCode- Trapping Rain Water
+
+GFG_POTD- Max Sum Subarray of size K
+
