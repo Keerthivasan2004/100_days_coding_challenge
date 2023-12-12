@@ -150,3 +150,10 @@ LeetCode- Trapping Rain Water
 
 GFG_POTD- Max Sum Subarray of size K
 
+
+Day-23(12.12.2023)
+
+LeetCode- Jump Game II
+
+GFG_POTD- Gold Mine Problem
+
