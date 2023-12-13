@@ -157,3 +157,10 @@ LeetCode- Jump Game II
 
 GFG_POTD- Gold Mine Problem
 
+
+Day-24(13.12.2023)
+
+LeetCode- Permutation
+
+GFG_POTD- Consecutive 1's not allowed
+
