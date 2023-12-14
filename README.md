@@ -164,3 +164,9 @@ LeetCode- Permutation
 
 GFG_POTD- Consecutive 1's not allowed
 
+
+Day-25(14.12.2023)
+
+LeetCode- Plus One
+
+GFG_POTD- Painting The Fence
