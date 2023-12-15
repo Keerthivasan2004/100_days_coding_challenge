@@ -170,3 +170,10 @@ Day-25(14.12.2023)
 LeetCode- Plus One
 
 GFG_POTD- Painting The Fence
+
+
+Day-26(15.12.2023)
+
+LeetCode- Merged Sorted Array
+
+GFG_POTD- Reach the Nth point
