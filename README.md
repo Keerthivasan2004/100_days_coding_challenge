@@ -177,3 +177,10 @@ Day-26(15.12.2023)
 LeetCode- Merged Sorted Array
 
 GFG_POTD- Reach the Nth point
+
+
+Day-27(16.12.2023)
+
+LeetCode- Single Number
+
+GFG_POTD- String's Count
