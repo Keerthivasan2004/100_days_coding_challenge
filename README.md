@@ -184,3 +184,10 @@ Day-27(16.12.2023)
 LeetCode- Single Number
 
 GFG_POTD- String's Count
+
+Day-28(17.12.2023)
+
+LeetCode- Permutation-II
+
+GFG_POTD- Max Sum without Adjacents
+
