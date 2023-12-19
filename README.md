@@ -199,3 +199,9 @@ LeetCode- Rotate Image
 
 GFG_POTD- Game of XOR
 
+
+Day-30(19.12.2023)
+
+LeetCode- Group Anagrams
+
+GFG_POTD- Rightmost different bit
