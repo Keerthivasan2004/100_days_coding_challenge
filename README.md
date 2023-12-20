@@ -1,4 +1,4 @@
-# 30_days_coding_challenge
+# 100_days_coding_challenge
 Day-01(20.11.2023)  
 
 LeetCode-Two Sum
@@ -205,3 +205,10 @@ Day-30(19.12.2023)
 LeetCode- Group Anagrams
 
 GFG_POTD- Rightmost different bit
+
+
+Day-31(20.12.2023)
+
+LeetCode- Triangle
+
+GFG_POTD- Modified Game of Nim
