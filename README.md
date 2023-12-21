@@ -212,3 +212,10 @@ Day-31(20.12.2023)
 LeetCode- Triangle
 
 GFG_POTD- Modified Game of Nim
+
+
+Day-32(21.12.2023)
+
+LeetCode- Maximum Subarray
+
+GFG_POTD- Candy
