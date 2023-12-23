@@ -219,3 +219,17 @@ Day-32(21.12.2023)
 LeetCode- Maximum Subarray
 
 GFG_POTD- Candy
+
+
+Day-33(22.12.2023)
+
+LeetCode- Spiral Matrix
+
+GFG_POTD- Maximum Meetings in One Room
+
+
+Day-34(23.12.2023)
+
+LeetCode- Jump Game
+
+GFG_POTD- Count More than n/p Occurences
