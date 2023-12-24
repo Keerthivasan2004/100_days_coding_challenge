@@ -233,3 +233,10 @@ Day-34(23.12.2023)
 LeetCode- Jump Game
 
 GFG_POTD- Count More than n/p Occurences
+
+
+Day-35(24.12.2023)
+
+LeetCode- Merged Intervals
+
+GFG_POTD- Buy Maximum Stocks if i stocks can be bought on i-th day
