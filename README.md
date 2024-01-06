@@ -240,3 +240,95 @@ Day-35(24.12.2023)
 LeetCode- Merged Intervals
 
 GFG_POTD- Buy Maximum Stocks if i stocks can be bought on i-th day
+
+
+Day-36(25.12.2023)
+
+LeetCode- Insert Interval
+
+GFG_POTD- Determinant of a Matrix
+
+
+Day-37(26.12.2023)
+
+LeetCode- Spiral Matrix II
+
+GFG_POTD- Largest rectangular sub-matrix whose sum is 0
+
+
+Day-38(27.12.2023)
+
+LeetCode- Unique Paths II
+
+GFG_POTD- Anti Diagonal Traversal of Matrix
+
+
+Day-39(28.12.2023)
+
+LeetCode- Minimum Path Sum
+
+GFG_POTD- Wildcard string matching
+
+
+Day-40(29.12.2023)
+
+LeetCode- Set Matrix Zeroes
+
+GFG_POTD- Check if a string is repetition of its substring of k-length
+
+
+Day-41(30.12.2023)
+
+LeetCode- Search a 2D Matrix
+
+GFG_POTD- Winner of an election
+
+
+Day-42(31.12.2023)
+
+LeetCode- Convert Sorted Array to Binary Search Tree
+
+GFG_POTD- New Year Resolution
+
+
+Day-43(01.01.2024)
+
+LeetCode- Majority Element
+
+GFG_POTD- Array Pair Sum Divisibility Problem
+
+
+Day-44(02.01.2024)
+
+LeetCode- Summary Ranges
+
+GFG_POTD- Largest Sum Subarray of Size at least K
+
+
+Day-45(03.01.2024)
+
+LeetCode- Missing Number
+
+GFG_POTD- Smallest window containing 0, 1 and 2
+
+
+Day-46(04.01.2024)
+
+LeetCode- Best Time to Buy and Sell Stock
+
+GFG_POTD- Find element occuring once when all other are present thrice
+
+
+Day-47(05.01.2024)
+
+LeetCode- Sort Colors
+
+GFG_POTD- Count possible ways to construct buildings
+
+
+Day-48(06.01.2024)
+
+LeetCode- Subsets
+
+GFG_POTD- Techfest and the Queue
+
