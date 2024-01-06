@@ -1,4 +1,4 @@
-# 100_days_coding_challenge
+# 50_days_coding_challenge
 Day-01(20.11.2023)  
 
 LeetCode-Two Sum
