@@ -332,3 +332,11 @@ LeetCode- Subsets
 
 GFG_POTD- Techfest and the Queue
 
+
+Day-49(07.01.2024)
+
+LeetCode- Word Search
+
+GFG_POTD- Split Array Largest Sum
+
+
